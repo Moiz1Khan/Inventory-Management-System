@@ -1,0 +1,3 @@
+do 
+msgBox("This computer is hacked")
+loop
